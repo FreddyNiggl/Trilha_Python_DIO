@@ -1,0 +1,11 @@
+Valor depositado: R$ + 400.00
+Valor sacado: R$ - 40.00
+Valor sacado: R$ - 45.00
+Valor sacado: R$ - 10.00
+Valor sacado: R$ - 300.00
+Valor sacado: R$ - 1.00
+Valor sacado: R$ - 2.00
+Valor sacado: R$ - 2.00
+Valor depositado: R$ + 1000.00
+Valor sacado: R$ - 500.00
+Valor sacado: R$ - 500.00
